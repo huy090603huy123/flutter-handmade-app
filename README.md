@@ -46,10 +46,16 @@ Chúng tôi luôn hoan nghênh các ý tưởng và đóng góp mới. Nếu b�
 
 
 ### 💻DEMO
+## 🚀 Trang Chủ
 ![img.png](img.png)
+## 🚀 Trang thông tin
 ![img_1.png](img_1.png)
+## 🚀 Gio hàng
 ![img_2.png](img_2.png)
+## 🚀 Địa chi và thanh toán 
 ![img_3.png](img_3.png)
+## 🚀 Theo dõi đơn hàng và lọc giá 
 ![img_4.png](img_4.png)
+## 🚀 Trang ADMIN
 ![img_5.png](img_5.png)
 
